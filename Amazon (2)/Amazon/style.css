@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.HeaderTop {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #0f1111;
+    color: white;
+    font-size: 13px;
+}
+
+.HtopText {
+    margin-top: 8px;
+}
+
+.HtopFont {
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.HeaderTop img {
+    margin-top: 10px;
+    height: 30px;
+}
+
+.FirstOption {
+    padding-bottom: 1px;
+    border: none;
+    background-color: #f0f0f0;
+    outline: none;
+    width: 42px;
+    height: 40px;
+    font-size: 14px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.FirstInput {
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 550px;
+}
+
+.FirstButton {
+    padding-bottom: 2px;
+    background-color: #ff9933;
+    border: none;
+    font-size: 18px;
+    height: 40px;
+    width: 40px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.FlagIMG img {
+    height: 15px;
+    /* margin-top: 10px; */
+}
+
+.FlagIMG select {
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+#FCart {
+    font-size: 30px;
+}
+
+/* -----------------HeaderBottom--------------------- */
+.HeaderBottom {
+    display: flex;
+    background-color: #232F3E;
+    padding: 10px 0;
+    color: white;
+    /* position: relative; */
+
+}
+
+.HeaderBottomText {
+    font-size: 14px;
+    position: relative;
+    padding: 0 8px;
+}
+
+.HeaderBottomText:hover {
+    border: 1px solid #f0f0f0;
+    /* font-size: 14px; */
+
+
+}
+
+.FlexEx {
+    position: absolute;
+    width: 100%;
+    top: 320px;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.FlexHeight {
+    background-color: white;
+    height: 420px;
+    margin-left: 20px;
+    width: 312px;
+    box-shadow: 0px 0px 20px 5px #8a8a8a;
+
+}
+
+.FlexHeight h3 {
+    margin: 25px 0 0 15px;
+}
+
+.BoxImg {
+    display: flex;
+    /* margin: 10px; */
+}
+
+.BoxImg div {
+    margin: 10px 0 0 15px;
+}
+
+.FlexHeight h2 {
+    font-size: 20px;
+    margin: 25px 0 0 15px;
+}
+.BoxImg p{
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.BoxImg1 {
+    display: flex;
+    /* margin: 10px; */
+}
+
+.BoxImg1 div {
+    margin: 10px 0 0 15px;
+}
+
+.BoxImg1 p {
+    font-size: 12px;
+    line-height: 1.5;
+    width: 130px;
+}
+.seemore{
+    margin: 15px 0 15px 15px;
+    color: #2c6a31;
+}
+.FlexHeight4{
+    background-color: white;
+    height: 150px;
+    margin-left: 20px;
+    width: 312px;
+    box-shadow: 0px 0px 20px 5px #8a8a8a;
+}
+.FlexHeight4 h2{
+    font-size: 20px;
+    margin: 25px 0 0 15px;
+}
+.FlexHeight4 p{
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 10px 15px 0 15px;
+}
